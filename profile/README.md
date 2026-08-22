@@ -141,10 +141,17 @@ Esto permite que Smart Learning funcione como un **portafolio técnico-educativo
 
 ---
 
+---
+
 <p align="center">
-  <strong>Aprender · Crear · Compartir · Transformar</strong>
+  <img
+    src="https://raw.githubusercontent.com/YaskCode-smart-learning/.github/main/profile/assets/footer-yaskcode-smart-learning.png"
+    alt="Principios de YaskCode Smart Learning"
+    width="100%"
+  >
 </p>
 
 <p align="center">
+  <strong>Aprender · Crear · Compartir · Transformar</strong><br>
   YaskCode Smart Learning
 </p>
